@@ -7,6 +7,8 @@ Este repositório foi criado para armazenar e versionar as atividades e projetos
 * **Atividade 01:** Contém os exercícios da disciplina de **Versionamento**.
 * **Atividade 02:** Contém os exercícios da disciplina de **UC09 - Codificação para Front-End**.
   Onde criei um site com 2 paginas, mas o objetivo era criar uma pagina de login.
+  * **Atividade 03:** Contém os exercícios da disciplina de **UC10-Framework Front-End com consumo de API **.
+  Onde criei um site de games com duas paginas
 
 ---
 
