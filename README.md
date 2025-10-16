@@ -11,6 +11,10 @@ Este repositório foi criado para armazenar e versionar as atividades e projetos
   Onde criei um site de games com duas paginas
 * **Atividade 04:** Contém o exercício 02 da disciplina de **UC10-Framework Front-End com consumo de API**.
   Onde eu tive que desenvolver e integrar a listagem e o cadastro de produtos em uma aplicação Angular, consumindo uma API via JSON-server.
+* **Atividade 05:** Contém o exercício 02 da disciplina de **SA2 Atividade 1: Desenvolvimento de sistema de controle de clientes**.
+  Implementação da lógica de negócios e métodos de cálculo
+  Adiciona a funcionalidade completa aos métodos das classes. 
+  Implementa operadores aritméticos, relacionais e estruturas condicionais/de repetição para o correto funcionamento do sistema de controle de clientes.
 
 ---
 
