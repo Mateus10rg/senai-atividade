@@ -15,6 +15,7 @@ Este repositório foi criado para armazenar e versionar as atividades e projetos
   Implementação da lógica de negócios e métodos de cálculo
   Adiciona a funcionalidade completa aos métodos das classes. 
   Implementa operadores aritméticos, relacionais e estruturas condicionais/de repetição para o correto funcionamento do sistema de controle de clientes.
+* **Atividade 06:** Contém o exercício da disciplina de **SA3 Atividade 3: Implantação Web MVC**. Criação de um projeto Web .NET com arquitetura MVC. O objetivo foi criar os models Cliente e Fornecedor, instanciar e popular seus dados no HomeController e, por fim, exibir as listas na view Index.cshtml
 
 ---
 
